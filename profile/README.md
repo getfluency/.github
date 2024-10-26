@@ -1,20 +1,20 @@
 # About Fluency
 
-Welcome to *Fluency*! We are pioneering the future of language learning with our innovative VR software. Designed to run on Snapchat Spectacles and soon expanding to the Meta Quest and Apple's Vision Pro, Fluency transforms the way you learn languages through immersive storytelling and roleplay experiences.
+Welcome to Fluency! We’re changing the way you connect and communicate with those around you. Our app allows you to share messages and engage with people nearby, putting a vibrant community at your fingertips.
 
-Fluency leverages the power of virtual reality to create engaging, interactive environments where learners can practice real-life conversations in a variety of scenarios. By integrating advanced large language models (LLMs), our platform provides personalized conversational AI that adapts to each user's progress, ensuring a tailored learning experience.
+Fluency helps you stay connected with local conversations, making it easy to discover what's happening in your area. Whether you want to share news, ask questions, or simply chat, Fluency brings you closer to your neighbors and friends.
 
 ## Features
 
-- *Immersive Storytelling*: Dive into captivating narratives that make learning a new language enjoyable and contextually relevant.
-- *Roleplay*: Engage in realistic conversations with AI-driven characters, enhancing your speaking and listening skills in a fun way.
-- *Adaptive Learning*: Our LLM technology analyzes your interactions to offer customized feedback and progression paths.
+- Location-Based Messaging: Share messages with local users, fostering organic connections and community engagement.
+- Real-Time Updates: Stay informed with live notifications for new messages in your area, ensuring you never miss an opportunity to connect.
+- Community Engagement: Share ideas, experiences, and recommendations with those nearby, enhancing your local connections.
 
 ## Let's Connect
 
-At Fluency, we believe language learning should be as dynamic and interactive as the world around us. Join us in revolutionizing education through the power of virtual reality. Follow us for updates on our upcoming features and partnerships!
+At Fluency, we believe communication should be as vibrant and connected as the communities we live in. Join us in revolutionizing how people interact through the power of location-based messaging. Follow us for updates on our features and community events!
 
-- [Website](https://getfluency.com)
+- [Website](https://getfluency.org)
 - [Twitter](#)
 - [LinkedIn](#)
 - [Instagram](#)
